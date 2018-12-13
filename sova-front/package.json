@@ -4,6 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
+    "start:iis": "ng run sova-front:serve:iis",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",

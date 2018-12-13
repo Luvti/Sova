@@ -1,35 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b534197-1218-4194-9b8a-542bb490f49f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Sova/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Sova/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Sova/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Sova/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Sova/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sova.Api/Hub/SovaHub.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sova.Api/IHubClient.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sova.Api/Models/Message.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/Sova/xs/UserPrefs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Sova/xs/UserPrefs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/Sova/xs/sqlite3/storage.ide" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Sova/xs/sqlite3/storage.ide" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/Sova/xs/sqlite3/storage.ide-shm" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Sova/xs/sqlite3/storage.ide-shm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/Sova/xs/sqlite3/storage.ide-wal" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Sova/xs/sqlite3/storage.ide-wal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sova.Api/Controllers/ValuesController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sova.Api/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sova.Api/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sova.Api/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Sova.Api/Properties/launchSettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sova.Api/Sova.Api.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Sova.Api/Sova.Api.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sova.Api/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sova.Api/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sova-front/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/../sova-front/angular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sova-front/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../sova-front/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sova-front/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../sova-front/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sova-front/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../sova-front/src/app/app-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sova-front/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../sova-front/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sova-front/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../sova-front/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sova-front/src/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../sova-front/src/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sova-front/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../sova-front/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sova-front/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../sova-front/src/main.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sova-front/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../sova-front/src/styles.scss" afterDir="false" />
-    </list>
+    <list default="true" id="1b534197-1218-4194-9b8a-542bb490f49f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -214,12 +186,12 @@
       <updated>1544637273680</updated>
       <workItem from="1544637275946" duration="7203000" />
       <workItem from="1544645917521" duration="8824000" />
-      <workItem from="1544723878593" duration="2690000" />
+      <workItem from="1544723878593" duration="2997000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18717000" />
+    <option name="totallyTimeSpent" value="19024000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
