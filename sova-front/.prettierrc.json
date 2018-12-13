@@ -1,0 +1,44 @@
+{
+  "printWidth": 250,
+  "parser": "typescript",
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "prettier-tslint": true,
+  "arrowParens": "always",
+  "overrides": [
+    {
+      "files": "*.ts",
+      "options": {
+        "parser": "typescript"
+      }
+    },
+    {
+      "files": "*.html",
+      "options": {
+        "parser": "angular"
+      }
+    },
+    {
+      "files": "*.json",
+      "options": {
+        "parser": "json-stringify",
+        "trailingComma": "none"
+      }
+    },
+    {
+      "files": "*.scss",
+      "options": {
+        "parser": "scss",
+        "trailingComma": "none"
+      }
+    },
+    {
+      "files": "*.css",
+      "options": {
+        "parser": "css",
+        "trailingComma": "none"
+      }
+    }
+  ]
+}

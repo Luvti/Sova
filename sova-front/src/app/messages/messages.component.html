@@ -1,0 +1,10 @@
+<section class="messages">
+  <ng-container *ngFor="let message of messages; let last = last">
+    <div class="messages--item">
+      <div class="messages--item--state" [ngClass]="message.messageType"></div>
+      <div class="messages--item--date">{{ message.receiveDate | date: 'dd.MM.yyyy HH:mm:ss' }}</div>
+      <div class="messages--item--text">{{ message.text }}</div>
+    </div>
+    <hr *ngIf="!last" />
+  </ng-container>
+</section>

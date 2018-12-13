@@ -1,0 +1,43 @@
+.messages {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+
+  &--item {
+    display: flex;
+    align-items: center;
+    height: 30px;
+    margin: 5px;
+
+    &--date {
+      white-space: nowrap;
+      margin-left: 25px;
+    }
+    &--text {
+      white-space: nowrap;
+      overflow: hidden;
+      height: 1.2em;
+      text-overflow: ellipsis;
+      margin-left: 25px;
+    }
+    &--state {
+      height: 100%;
+      width: 20px;
+      &.success {
+        background-color: lightgreen;
+      }
+      &.warning {
+        background-color: lightgoldenrodyellow;
+      }
+      &.error {
+        background-color: lightsalmon;
+      }
+    }
+  }
+  hr {
+    width: 100%;
+    color: transparent;
+    border-top-color: rgba(0, 0, 0, 0.12);
+    border-top-width: 1px;
+  }
+}

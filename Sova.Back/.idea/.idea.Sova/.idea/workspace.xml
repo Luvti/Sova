@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b534197-1218-4194-9b8a-542bb490f49f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Sova/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Sova/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Sova/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Sova/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Sova/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sova.Api/Hub/SovaHub.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sova.Api/IHubClient.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sova.Api/Models/Message.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Sova/xs/UserPrefs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Sova/xs/UserPrefs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Sova/xs/sqlite3/storage.ide" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Sova/xs/sqlite3/storage.ide" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Sova/xs/sqlite3/storage.ide-shm" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Sova/xs/sqlite3/storage.ide-shm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Sova/xs/sqlite3/storage.ide-wal" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Sova/xs/sqlite3/storage.ide-wal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sova.Api/Controllers/ValuesController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sova.Api/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sova.Api/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sova.Api/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Sova.Api/Properties/launchSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sova.Api/Sova.Api.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Sova.Api/Sova.Api.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sova.Api/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sova.Api/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sova-front/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/../sova-front/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sova-front/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../sova-front/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sova-front/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../sova-front/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sova-front/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../sova-front/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sova-front/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../sova-front/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sova-front/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../sova-front/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sova-front/src/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../sova-front/src/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sova-front/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../sova-front/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sova-front/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../sova-front/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sova-front/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../sova-front/src/styles.scss" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1403166">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="23" />
+          <entry key="csproj" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="23" />
+          <entry key="Csproj" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="TypeScriptServerServiceImpl" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="1956" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="1956" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Sova.Api/Models/Message.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Sova.Api/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EBA19B1F-1E06-41C6-A979-887A0E7AA5E0/83/54dcb77b/Thread.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Sova.Api/Models/MessageStorage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Sova.Api/Hub/SovaHub.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Sova.Api/Hub/SovaHostedService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Sova.Api/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Sova.Api/Program.cs" />
+        <option value="$PROJECT_DIR$/Sova.Api/Models/MessageTypes.cs" />
+        <option value="$PROJECT_DIR$/Sova.Api/Message.cs" />
+        <option value="$PROJECT_DIR$/Sova.Api/NotifyService.cs" />
+        <option value="$PROJECT_DIR$/Sova.Api/Controllers/MessageController.cs" />
+        <option value="$PROJECT_DIR$/Sova.Api/SovaHub.cs" />
+        <option value="$PROJECT_DIR$/Sova.Api/Hub/IHubContext.cs" />
+        <option value="$PROJECT_DIR$/Sova.Api/Hub/SovaHubService.cs" />
+        <option value="$PROJECT_DIR$/Sova.Api/Model/MessageStorage.sc.cs" />
+        <option value="$PROJECT_DIR$/Sova.Api/Hub/SovaHub.cs" />
+        <option value="$PROJECT_DIR$/Sova.Api/Models/MessageStorage.cs" />
+        <option value="$PROJECT_DIR$/Sova.Api/Startup.cs" />
+        <option value="$PROJECT_DIR$/Sova.Api/Models/Message.cs" />
+        <option value="$PROJECT_DIR$/Sova.Api/Hub/SovaHostedService.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="834" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Sova" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Sova" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Sova.Api" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Sova" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Sova.Api" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Hub" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Sova" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Sova.Api" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Models" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="RiderNuGetOptionsPageId" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Sova.Api/bin/Debug/netcoreapp2.1/Sova.Api.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sova.Api" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Sova.Api/Sova.Api.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b534197-1218-4194-9b8a-542bb490f49f" name="Default Changelist" comment="" />
+      <created>1544637273680</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544637273680</updated>
+      <workItem from="1544637275946" duration="7203000" />
+      <workItem from="1544645917521" duration="8824000" />
+      <workItem from="1544723878593" duration="2690000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18717000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17399268" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32959184" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.497558" visible="true" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" sideWeight="0.4993895" weight="0.32959184" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="11" weight="0.32959184" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" weight="0.32959184" />
+      <window_info anchor="bottom" id="REST Client" order="13" weight="0.32959184" />
+      <window_info anchor="bottom" id="Terminal" order="14" weight="0.32959184" />
+      <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.502442" side_tool="true" visible="true" weight="0.4" />
+      <window_info anchor="bottom" id="Build" order="16" sideWeight="0.4981685" weight="0.32959184" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="DotNetProject">
+        <watch expression="this._hubContext.Clients.All._lifetimeManager._connections.Count" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Sova.Api/Models/MessageTypes.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EBA19B1F-1E06-41C6-A979-887A0E7AA5E0/83/54dcb77b/Thread.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="111" column="8" selection-start-line="111" selection-start-column="8" selection-end-line="111" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sova.Api/NotifyService.cs" />
+    <entry file="file://$PROJECT_DIR$/Sova.Api/Hub/SovaHubService.cs" />
+    <entry file="file://$PROJECT_DIR$/Sova.Api/Controllers/MessageController.cs" />
+    <entry file="file://$PROJECT_DIR$/Sova.Api/Sova.Api.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sova.Api/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <marker date="1544636846403" expanded="false" signature="6:63" ph="..." />
+            <marker date="1544636846403" expanded="true" signature="83:410" ph="{...}" />
+            <marker date="1544636846403" expanded="true" signature="110:408" ph="{...}" />
+            <marker date="1544636846403" expanded="true" signature="163:237" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sova.Api/Setings.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sova.Api/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+          <folding>
+            <marker date="1544732423298" expanded="true" signature="6:233" ph="..." />
+            <marker date="1544732423298" expanded="true" signature="253:1784" ph="{...}" />
+            <marker date="1544732423298" expanded="true" signature="280:1782" ph="{...}" />
+            <marker date="1544732423298" expanded="true" signature="339:402" ph="{...}" />
+            <marker date="1544732423298" expanded="true" signature="625:1195" ph="{...}" />
+            <marker date="1544732423298" expanded="true" signature="718:945" ph="{...}" />
+            <marker date="1544732423298" expanded="true" signature="1383:1776" ph="{...}" />
+            <marker date="1544732423298" expanded="true" signature="1430:1507" ph="{...}" />
+            <marker date="1544732423298" expanded="true" signature="1524:1583" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sova.Api/Models/MessageStorage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+          <folding>
+            <marker date="1544731136523" expanded="true" signature="60:550" ph="{...}" />
+            <marker date="1544731136523" expanded="true" signature="94:548" ph="{...}" />
+            <marker date="1544731136523" expanded="true" signature="189:260" ph="{...}" />
+            <marker date="1544731136523" expanded="true" signature="306:367" ph="{...}" />
+            <marker date="1544731136523" expanded="true" signature="396:447" ph="{...}" />
+            <marker date="1544731136523" expanded="true" signature="492:542" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sova.Api/Models/Message.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+          <folding>
+            <marker date="1544732521817" expanded="true" signature="40:1007" ph="{...}" />
+            <marker date="1544732521817" expanded="true" signature="67:1005" ph="{...}" />
+            <marker date="1544732521817" expanded="true" signature="341:999" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sova.Api/Hub/SovaHub.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <marker date="1544724944658" expanded="false" signature="6:88" ph="..." />
+            <marker date="1544724944658" expanded="true" signature="108:503" ph="{...}" />
+            <marker date="1544724944658" expanded="true" signature="140:501" ph="{...}" />
+            <marker date="1544724944658" expanded="true" signature="252:304" ph="{...}" />
+            <marker date="1544724944658" expanded="true" signature="353:486" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sova.Api/Hub/SovaHostedService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding>
+            <marker date="1544732611693" expanded="false" signature="6:162" ph="..." />
+            <marker date="1544732611693" expanded="true" signature="182:1538" ph="{...}" />
+            <marker date="1544732611693" expanded="true" signature="249:1536" ph="{...}" />
+            <marker date="1544732611693" expanded="true" signature="264:320" ph="/// seconds ... " />
+            <marker date="1544732611693" expanded="true" signature="591:667" ph="{...}" />
+            <marker date="1544732611693" expanded="true" signature="736:885" ph="{...}" />
+            <marker date="1544732611693" expanded="true" signature="928:1242" ph="{...}" />
+            <marker date="1544732611693" expanded="true" signature="995:1134" ph="{...}" />
+            <marker date="1544732611693" expanded="true" signature="1166:1232" ph="{...}" />
+            <marker date="1544732611693" expanded="true" signature="1310:1448" ph="{...}" />
+            <marker date="1544732611693" expanded="true" signature="1479:1530" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
